@@ -1,6 +1,6 @@
 # Vein: Mutations
 
-A hardcore mutation mod for **Minecraft Java 1.21.1 (Fabric)**.
+A mutation mod for **Minecraft Java 1.21.1 (Fabric)**.
 
 Vanilla survival infects you. Four veins — **Pupil**, **Bone**, **Shadow**, and **Flesh** — grow out of darkness, fists, stealth, and hunger. Vein XP is a second currency. You choose which vein to feed. Power comes first. The price comes after.
 
@@ -26,7 +26,7 @@ Use this template:
 **Mod version:**  
 **Minecraft / Fabric Loader / Fabric API:**  
 **Singleplayer or server:**  
-**Difficulty in Vein:** Casual / Normal / Hardcore  
+**Vein difficulty in the menu:** Casual / Normal / Hardcore  
 **What you were doing:**  
 **What happened:**  
 **What you expected:**  
@@ -55,7 +55,7 @@ If the report has no version and no log, it will be closed.
 
 # Vein: Mutations
 
-Хардкорный мод мутаций для **Minecraft Java 1.21.1 (Fabric)**.
+Мод мутаций для **Minecraft Java 1.21.1 (Fabric)**.
 
 Ванильное выживание заражает тебя. Четыре вены — **Pupil**, **Bone**, **Shadow** и **Flesh** — растут из темноты, кулаков, скрытности и голода. Vein XP — вторая валюта. Ты сам выбираешь, какую вену кормить. Сначала сила. Потом цена.
 
@@ -79,27 +79,10 @@ If the report has no version and no log, it will be closed.
 **Версия мода:**  
 **Minecraft / Fabric Loader / Fabric API:**  
 **Одиночка или сервер:**  
-**Сложность Vein:** Casual / Normal / Hardcore  
+**Сложность Vein в меню:** Casual / Normal / Hardcore  
 **Что делал:**  
 **Что вышло:**  
 **Что должно было выйти:**  
 **Повторяется:** да / нет / иногда  
 
-Приложи `latest.log` из `.minecraft/logs/` или краш-репорт, если игра закрылась. Скрин экрана вен (`K`) полезен, если баг про ранги, Pour или нагрузку.
-
-## Сюда можно писать
-
-- Краши и зависания
-- Вена даёт не тот эффект, не ту цену или не ту клавишу
-- В одиночке работает, на сервере нет
-- Ошибки перевода в английском или русском
-- Баланс, который можно описать цифрами, а не только «слишком имба»
-
-## Сюда не нужно писать
-
-- «Мод не работает» без версии и без лога
-- Forge / NeoForge — эта сборка только Fabric 1.21.1
-- Конфликты с ресурспаками, если нет доказательства, что виноват Vein
-- Идеи фич без примера, как это должно работать в игре
-
-Тикет без версии и без лога будет закрыт.
+Приложи `latest.log` из `.minecraft/logs/` или краш-репорт, если игра
